@@ -2,7 +2,7 @@ import {Component} from 'angular2/core';
 //import {myMoviesComponent} from './component.mymovies';
 
 @Component({
-    selector: 'myShop',
+    selector: 'helloWorld',
     template: `Hello World`
 })
 
